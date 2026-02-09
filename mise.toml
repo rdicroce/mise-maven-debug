@@ -1,3 +1,5 @@
 [tools]
 java = "temurin-17.0.18+8"
 maven = "3.9.12"
+node = "24.13.0"
+"npm:@yarnpkg/cli-dist" = "4.12.0"
